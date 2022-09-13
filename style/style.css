@@ -1,0 +1,42 @@
+body{
+    font-size: calc();
+}
+.w-bg-95{
+    width: 95%;
+    background-color: rgb(0, 206, 137);
+    margin: auto;
+
+}
+.w-95{
+    width: 95%;
+    margin: auto;
+
+}
+.w-90{
+    width: 90%;
+    background-color: rgb(0, 206, 137);
+    margin: auto;
+
+}
+.w-85{
+    width: 85%;
+    background-color: rgb(0, 206, 137);
+    margin: auto;
+
+}
+.w-80{
+    width: 80%;
+    background-color: rgb(0, 206, 137);
+    margin: auto;
+
+}
+.w-70{
+    width: 70%;
+    background-color: rgb(0, 206, 137);
+    margin: auto;
+
+}
+.w-60{
+    width: 60%;
+    
+}
